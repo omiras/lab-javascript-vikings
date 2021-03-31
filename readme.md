@@ -267,3 +267,7 @@ Returns the current status of the `War` based on the size of the armies.
 <br>
 
 **Happy Coding!** 💙
+
+# Solution
+Solution provided by [Maria Canals](https://github.com/maria-canals/lab-javascript-vikings
+)
